@@ -1,0 +1,26 @@
+h2 {
+
+   color:orange;
+}
+
+p {
+
+    /* color:rgb(66, 239, 245,);
+    background-color:black;
+
+    color: #42eff5;
+    background-color: blue; */
+
+    color:rgb(245, 182, 66);
+    background-color:black;
+
+    color:#f5b642;
+    background-color: blue;
+ }
+
+
+button {
+
+    color:white;
+    background-color: blue;
+ }
